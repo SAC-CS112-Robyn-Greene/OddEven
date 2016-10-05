@@ -44,3 +44,5 @@ public class OddEven {
 
     }//endmain
 }//endclass
+
+// Hi Robyn, please see if you can draw a flow chart to represent the logic of the game.  This may help.
